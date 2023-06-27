@@ -1,4 +1,4 @@
-# cal
+# calculator
 calculator app
 
 USED LANGUAGES
