@@ -20,6 +20,9 @@ item.onclick = () => {
 })
 const themetoggleBtn = document.querySelector('.theme-toggler');
 const calculator = document.querySelector('.calculator');
+
+
+
 const toggleIcon = document.querySelector('.toggler-icon');
 let isDark = true;
 themetoggleBtn.onclick = () => {
