@@ -13,7 +13,9 @@ item.onclick = () => {
     } else if (display.innerText == '' && item.id == 'equal') {
         display.innerText = 'Empty!';
         setTimeout(() => (display.innerText = ''), 2000);
-}else {
+}
+    
+    else {
     display.innerText += item.id;
 }
 }
